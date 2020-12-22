@@ -7,6 +7,12 @@ html {
   top: 100px;
   right: 0;
 }
+@media only screen and (max-width: 600px) {
+  #bear {
+    position: absolute%;
+    left 50%: none;
+  }
+}
 
 /* Write your solution here */
 
